@@ -1,3 +1,6 @@
 .center{
-    text-align: center;
+    text-align: center; /*deixa o parágrafo com texto centralizado*/
+}
+.justificado{
+    text-align: justify; /*deixa o parágrafo com texto justificado*/
 }
